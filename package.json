@@ -1,0 +1,23 @@
+{
+  "name": "common-errors",
+  "version": "0.0.1",
+  "description": "错误列表，为了方便抛出的，尚未国际化，目前只有中文。",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudbeer/common-errors.git"
+  },
+  "keywords": [
+    "error",
+    "chinese"
+  ],
+  "author": "Cloudbeer <cloudbeer@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudbeer/common-errors/issues"
+  },
+  "homepage": "https://github.com/cloudbeer/common-errors#readme"
+}

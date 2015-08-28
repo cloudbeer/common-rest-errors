@@ -1,2 +1,4 @@
 # common-errors
-genneral erros collections, for throw easily.
+
+错误列表，为了方便抛出的，尚未国际化，目前只有中文。
+
