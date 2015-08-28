@@ -1,6 +1,25 @@
-# common-errors
+# common-rest-errors
+
+## Install
+
+npm i common-rest-errors --save
+
+## 例子
+
+    var errors = require("common-rest-errors");
+
+    try{
+        throw errors.WHAT_REQUIRE("手机号码或者邮箱");
+    }catch(e){
+        console.log(e);
+    }
+
+
+## 说明
 
 错误列表，为了方便抛出的，尚未国际化，目前只有中文。
+
+
 
 在程序中，例外的地方只需要抛出例外即可，如：
 
