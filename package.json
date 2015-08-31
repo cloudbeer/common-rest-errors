@@ -1,6 +1,6 @@
 {
   "name": "common-rest-errors",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "错误列表，为了方便抛出的，尚未国际化，目前只有中文。",
   "main": "lib/index.js",
   "scripts": {
